@@ -1,7 +1,7 @@
 <?php
 
 //Menu untuk Hapus Daftar Kamar di Aplicare
-//Post ke {baseUrl}/aplicarews/rest/bed/delete/{kode_ppk}
+//Post ke {baseUrl}/aplicarsews/rest/bed/delete/{kode_ppk}
 //Ubah di menu raw jadi json
 
    $data = "(con_id)";
