@@ -1,9 +1,11 @@
 <?php
 
+//Menu untuk Hapus Daftar Kamar di Aplicare
+//Post ke {baseUrl}/aplicarews/rest/bed/delete/{kode_ppk}
+//Ubah di menu raw jadi json
 
-
-   $data = "con_id";
-   $secretKey = "secret_key";
+   $data = "(con_id)";
+   $secretKey = "(secret_key)";
          // Computes the timestamp
           date_default_timezone_set('UTC');
           $tStamp = strval(time()-strtotime('1970-01-01 00:00:00'));
